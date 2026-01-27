@@ -1,3 +1,7 @@
+# FVQ
+We’re releasing the initial version first, and will keep improving it, including uploading the model checkpoints later.
+
+
 # Installation
 1.Install python==3.10.6 pytroch==2.1.0+cu118
 
