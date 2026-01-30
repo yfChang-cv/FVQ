@@ -1,3 +1,42 @@
+<h1 align="center"> Scalable Training for Vector-Quantized Networks with 100% Codebook Utilization </h1>
+
+<div align="center">
+  <p>
+   <strong>Yifan Chang</strong>
+    ·
+    <strong>Jie Qin</strong>
+    ·
+    <strong>Zicong Hong</strong>
+    ·
+    <strong>Limeng Qiao</strong>
+    ·
+    <strong>Xiaofeng Wang</strong>
+    ·
+    <strong>Zheng Zhu</strong>
+    ·
+    <strong>Lin Ma</strong>
+    ·
+    <strong>Xingang Wang</strong>
+    <!-- <br><br>
+    <b><sup>1</sup>Hong Kong University of Science and Technology &nbsp; | &nbsp; <sup>2</sup>ByteDance Seed</b>
+    <br>
+    <em>* Corresponding author</em> -->
+  </p>
+</div>
+<p align="center">
+  <a href="https://arxiv.org/abs/2509.10140">
+    <img src="https://img.shields.io/badge/arXiv-2509.10140-b31b1b.svg" alt="arXiv">
+  </a>
+  <!-- <a href="https://WM-PO.github.io">
+    <img src="https://img.shields.io/badge/Project%20Page-Website-1f6feb.svg?logo=googlechrome&logoColor=white" alt="Project Page">
+  </a> -->
+  <a href="https://huggingface.co/yfChang/FVQ">
+    <img src="https://img.shields.io/badge/Checkpoints-%F0%9F%A4%97%20HuggingFace-ffd21e.svg?logo=huggingface" alt="Checkpoints">
+  </a>
+</p>
+
+
+
 # FVQ
 We’re releasing the initial version first, and will keep improving it, including uploading the model checkpoints later.
 
