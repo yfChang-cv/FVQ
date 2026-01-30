@@ -6,8 +6,6 @@
     ·
     <strong>Jie Qin</strong>
     ·
-    <strong>Zicong Hong</strong>
-    ·
     <strong>Limeng Qiao</strong>
     ·
     <strong>Xiaofeng Wang</strong>
